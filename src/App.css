@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #757a76;
+  padding: 2em;
+  border:2px solid black;
+}
+.Comp{
+  border:2px solid black;
+background-color: rgb(7, 124, 124);
+padding-bottom: 20px;
+}
+.Prop{
+  border:2px solid black;
+  background-color: rgb(98, 177, 150);
+}
+.Mui{
+  border:2px solid black;
+  background-color:#767e88;
+}
+.States{
+  border:2px solid black;
+  background-color: rgb(117, 127, 161);
+  padding-bottom: 20px;
+}
+
+
