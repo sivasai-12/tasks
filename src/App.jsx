@@ -1,13 +1,13 @@
 import './App.css';
 import React from 'react';
-import Pdemo from './pdemo.js';
+import Pdemo from './pdemo.jsx';
 
-import A from './A.js';
-import B from './B.js';
-import C from './C.js';
-import Typographymui from './Typographymui.js';
-import Button1 from './button.js';
-import Counter from './Counter.js';
+import A from './A.jsx';
+import B from './B.jsx';
+import C from './C.jsx';
+import Typographymui from './Typographymui.jsx';
+import Button1 from './button.jsx';
+import Counter from './Counter.jsx';
 
 class App extends React.Component{ 
   render() {
